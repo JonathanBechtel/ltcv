@@ -1,0 +1,437 @@
+transaction_date,order_total,customer_first_name,customer_last_name
+6/19/2015 7:00,30.99,Jesse,Sparks
+6/18/2015 14:30,85.98,Fred,Alfinda
+,,,
+6/17/2015 17:14,45.99,Duane,Kroll
+6/15/2015 7:45,25.2,Richard T,Howell Jr
+6/13/2015 15:47,173.96,PETE,ECHAVARRIA
+6/12/2015 7:01,69.72,Teresa,Bustamante
+,,,
+,,,
+6/11/2015 16:21,77.98,Karen,Cox
+6/10/2015 16:43,113.97,Leon C,Gottberg
+,,,
+6/10/2015 7:01,30.99,Adam,Powers
+6/8/2015 5:47,25.99,Omar,Alley
+6/6/2015 20:51,85.98,Lorenzo,Battle
+,,,
+6/5/2015 13:42,145.96,Teena,Conrad
+,,,
+,,,
+6/4/2015 14:59,25.2,Lisa,Stewart
+6/4/2015 14:00,173.96,Fred,Kotthaus
+,,,
+,,,
+6/4/2015 7:01,37.48,Donald,Santoso
+,,,
+6/3/2015 7:01,69.72,Doris,Hawkins
+6/1/2015 17:55,625.85,Elizabeth,Smith
+,,,
+6/1/2015 15:16,0,Dominique,Keaton
+,,,
+,,,
+6/1/2015 12:18,70.98,Lorrie,Voigt
+,,,
+6/1/2015 11:55,85.98,Jonathan,Anderson
+6/1/2015 7:02,30.99,Mark,Joyce
+5/31/2015 12:44,29.99,Chris,Pitre
+5/31/2015 11:56,35.99,Audry,Britton
+5/31/2015 9:21,19,Nina,Bookman
+5/30/2015 15:29,45.99,Robin,Nichols
+5/30/2015 7:05,45.99,David,Farrell
+5/29/2015 11:23,197.95,SHERI,CLAPKIN
+5/29/2015 10:37,25.99,anna,Viera
+5/28/2015 9:12,25.2,Kimber,Chitwood
+5/26/2015 12:42,65.98,MONTY,WILDE
+5/25/2015 12:24,65.98,Marcus,Mitchell
+5/25/2015 10:57,95.98,Stacie,Ramirez
+,,,
+,,,
+5/24/2015 10:12,45.99,Mara,Duca
+,,,
+5/24/2015 7:00,42.48,Gerry,Schiller
+,,,
+,,,
+5/23/2015 0:04,35.99,sharon,gerrard
+5/22/2015 14:21,35.99,Eugenia,Sanchez
+5/22/2015 7:01,104.96,Steph,Taylor
+5/21/2015 9:12,45.99,Lucina,Linares
+5/20/2015 12:19,25.99,Jennifer,Whitman
+5/20/2015 6:07,45.99,Thomas,Corrigan
+5/19/2015 14:16,45.99,Lynnette,Shears
+5/19/2015 7:00,30.99,Jesse,Sparks
+5/18/2015 17:15,25.99,consuelo,sobalvarro
+5/17/2015 22:49,45.99,Larry,pritchard
+5/17/2015 10:55,118.45,Jeffrey,Casey
+,,,
+5/17/2015 8:59,25.99,Miranda,Johnson
+5/16/2015 22:14,25.99,Brent,Ritchey
+5/15/2015 20:32,45.99,Cliff,Roberts
+5/12/2015 10:47,45.99,Devi,Kyanam
+5/12/2015 7:01,69.72,Teresa,Bustamante
+,,,
+,,,
+5/11/2015 9:40,185.95,Gary,Bakken
+,,,
+,,,
+5/11/2015 7:01,145.94,Brad,Fiedel
+,,,
+5/10/2015 14:07,35.99,Christopher,Rhyne
+5/10/2015 7:03,30.99,Adam,Powers
+5/9/2015 7:10,25.99,cheryl,franze
+5/7/2015 8:01,25.2,Richard T,Howell Jr
+5/6/2015 17:09,25.99,Jennifer,Halinkowski
+5/6/2015 15:20,45.99,NanyJane,Smith
+5/6/2015 10:44,0,Donald,Santoso
+5/6/2015 9:31,25.99,abby,suazo
+5/6/2015 9:22,25.99,abby,suazo
+5/3/2015 20:14,265.94,Eric,Daniels
+,,,
+5/2/2015 12:06,65.98,Teena,Conrad
+,,,
+5/1/2015 19:10,45.99,Craig,Palmer
+5/1/2015 8:00,45.99,Davene,Yankle
+5/1/2015 7:02,30.99,Mark,Joyce
+4/29/2015 11:41,16,Susan,Andes
+4/28/2015 20:17,45.99,Jacqueline,Tue
+,,,
+4/28/2015 19:43,65.98,jane,calvert
+,,,
+4/28/2015 14:16,45.99,Alicia,dallen
+,,,
+4/28/2015 9:47,365.91,Brant,Randall
+,,,
+4/27/2015 23:24,245.94,Joan,Otsu
+4/27/2015 17:08,25.99,Susan,Andes
+4/24/2015 21:29,65.98,Karen,Rader
+4/24/2015 20:08,25.99,Omar,Alley
+4/24/2015 13:42,125.97,bonnie,wolff
+4/24/2015 11:31,185.95,Stephen,Springer
+,,,
+4/24/2015 7:01,42.48,Gerry,Schiller
+,,,
+,,,
+4/24/2015 5:59,69.72,Dominique,Keaton
+,,,
+,,,
+4/23/2015 8:52,55.98,Diana,Torres
+4/22/2015 7:01,18.49,Paula,Kaiser
+4/21/2015 11:38,45.99,Christine,Imamshah
+4/20/2015 8:37,35.99,Kenneth,Huie
+4/19/2015 13:21,45.99,GEORGE,MC DERMOTT
+4/19/2015 7:01,30.99,Jesse,Sparks
+4/19/2015 3:39,25.99,Glynnis,Stodghill
+4/18/2015 21:03,125.97,fred,alfinda
+,,,
+4/18/2015 17:27,65.98,karin,van nieuwenhuizen
+4/15/2015 23:07,45.99,Leigh,Elliott
+4/15/2015 21:16,45.99,Sarah,Burkert
+4/14/2015 20:51,65.98,Lorrie,Voigt
+,,,
+4/13/2015 14:28,45.99,G.,Garza
+4/13/2015 13:45,29.99,Michael,Mathis
+4/13/2015 10:30,445.89,Elizabeth,Smith
+,,,
+,,,
+4/12/2015 7:01,69.72,Teresa,Bustamante
+,,,
+,,,
+4/11/2015 18:42,131.97,Greg,Frank
+4/11/2015 10:37,45.99,Paula,Spagnuolo
+4/10/2015 11:08,107.97,JAMES,STEBBINS
+4/10/2015 7:01,30.99,Adam,Powers
+4/9/2015 0:16,125.97,Brandy,Camacho
+,,,
+,,,
+4/5/2015 18:41,45.99,julie,hagey
+4/3/2015 18:42,45.99,Lori,Hunt
+4/3/2015 18:22,25.99,sari,Lindauer
+4/2/2015 22:04,45.99,MariJo,Shearin
+,,,
+4/2/2015 1:10,85.98,jacob,ireland
+4/1/2015 14:39,125.97,Teena,Conrad
+,,,
+,,,
+4/1/2015 7:01,30.99,Mark,Joyce
+3/31/2015 14:16,35.99,Michael,Mathis
+3/31/2015 2:50,107.97,Stephen,Hawkins
+,,,
+,,,
+3/31/2015 1:04,25.99,Alyson,Taylor
+3/30/2015 10:21,85.98,Pete,Rolfing
+,,,
+3/30/2015 4:32,45.99,Craig,Palmer
+3/29/2015 7:01,69.72,Bill,Eastman
+3/27/2015 8:53,35.99,Terrence,Jackson
+3/25/2015 17:02,95.98,luke,garrett
+,,,
+,,,
+3/24/2015 11:47,29.99,Eric,Heminger
+3/24/2015 7:01,42.48,Gerry,Schiller
+,,,
+,,,
+3/23/2015 9:35,25.99,David,Cesmat
+3/23/2015 8:35,45.99,Stephen,Duprey
+3/22/2015 12:13,85.98,Jonathan,Anderson
+,,,
+3/22/2015 7:01,18.49,Paula,Kaiser
+3/22/2015 7:01,104.96,Steph,Taylor
+3/20/2015 14:50,25.99,paul,jerskey
+3/20/2015 1:55,30.99,Jesse,Sparks
+3/18/2015 20:08,35.99,Brittany,Miles
+3/18/2015 12:00,25.99,Audry,Britton
+3/18/2015 8:31,95.98,Lisa,Soiett
+3/18/2015 7:36,25.2,Richard T,Howell Jr
+3/18/2015 6:43,45.99,Kevin,Hines
+3/17/2015 9:06,205.95,bonnie,wolff
+3/17/2015 0:21,21,Dominique,Keaton
+3/15/2015 19:15,65.98,Heather,Kingma
+,,,
+3/15/2015 10:30,65.98,Andrew,Coles
+3/13/2015 14:57,45.99,David,Robinson
+3/13/2015 7:01,69.72,Faiez,Elahee
+,,,
+,,,
+3/12/2015 15:51,69.72,Teresa,Bustamante
+,,,
+,,,
+3/12/2015 15:45,25.99,Joseph,Greco
+3/12/2015 15:24,125.97,jalie,porter
+3/12/2015 14:47,25.99,Megan,Sanders
+3/11/2015 16:37,45.99,LOREN,BECKER
+3/11/2015 15:28,95.98,Robert,Newton
+3/10/2015 16:50,245.94,Kevin,Thompson
+,,,
+3/10/2015 6:51,95.98,John,Radovich
+3/8/2015 11:14,25.99,Cleala,Kiszer
+3/7/2015 13:12,45.99,Elliott,Roff
+3/7/2015 8:06,107.97,Gary,Bakken
+,,,
+,,,
+3/6/2015 6:19,45.99,Desirae,de Silva
+3/4/2015 7:01,37.48,Donald,Santoso
+,,,
+3/3/2015 9:49,69.72,Doris,Hawkins
+3/1/2015 7:01,30.99,Mark,Joyce
+3/1/2015 7:01,30.99,George,Wagner
+3/1/2015 5:50,35.99,Alissa L,Ankrom
+3/1/2015 5:44,65.98,Alissa L,Ankrom
+,,,
+2/28/2015 15:35,45.99,Carl,Solum
+2/25/2015 12:34,16,Marina,Thibeau
+2/24/2015 7:01,42.48,Gerry,Schiller
+,,,
+,,,
+2/23/2015 22:45,0,Gerry,Schiller
+,,,
+,,,
+2/23/2015 17:47,45.99,Rick,Kensell
+2/22/2015 20:19,85.98,Paula,Violet
+,,,
+2/22/2015 20:14,107.97,Eric,Daniels
+2/22/2015 7:00,18.49,Paula,Kaiser
+2/20/2015 15:07,45.99,Jon,Gustin
+2/20/2015 14:57,0,Kimberly,Cincotta
+2/18/2015 18:03,85.98,Bella,Sheridan
+2/16/2015 9:04,25.99,Thomas,Corrigan
+2/15/2015 13:03,45.99,Jesse,Sparks
+2/15/2015 12:42,25.99,Alyson,Taylor
+2/13/2015 9:12,45.99,abigail,suazo
+2/11/2015 7:01,145.94,Brad,Fiedel
+,,,
+2/9/2015 12:14,45.99,John,Melton
+2/7/2015 18:50,85.98,Ronan,Connolly
+,,,
+,,,
+2/7/2015 18:26,45.99,Craig,Palmer
+2/7/2015 17:52,25.99,Cleala,Kiszer
+2/7/2015 10:48,25.2,Richard T,Howell Jr
+2/5/2015 13:59,125.97,Peter,McLennan
+2/5/2015 12:49,35.99,Patricia,Gick
+2/4/2015 16:48,45.99,Holland,Judkins
+2/4/2015 12:52,65.98,Kathleen,Hubbard
+,,,
+2/4/2015 11:17,45.99,John,DeHaven
+2/4/2015 7:02,37.48,Donald,Santoso
+,,,
+2/3/2015 20:35,0,Cynthia,Bechel
+2/3/2015 13:57,95.98,Gary,Bakken
+,,,
+,,,
+2/3/2015 0:21,107.97,Doris,Howell
+2/2/2015 20:58,25.99,Carolyn,Ferguson
+2/1/2015 7:01,30.99,Mark,Joyce
+2/1/2015 7:01,30.99,Kimberly,Cincotta
+2/1/2015 7:01,30.99,George,Wagner
+1/31/2015 13:36,45.99,Glen,Harris
+1/30/2015 14:35,25.99,Jon,Gustin
+1/30/2015 10:54,225.94,theresa,sabio
+,,,
+1/30/2015 10:06,45.99,Glenn,Berger
+,,,
+1/29/2015 14:40,65.98,Jeanine,Avila
+,,,
+,,,
+1/29/2015 7:01,110.96,Monique,Wakefield
+,,,
+1/27/2015 10:59,225.94,Johua,Sims
+1/26/2015 14:56,24,Zofia,Lis
+1/25/2015 13:23,125.97,Sally,Davies
+1/25/2015 8:36,65.98,Danielle,Houchins
+,,,
+,,,
+1/24/2015 16:42,87.97,paul,summerlin
+1/24/2015 7:01,48.48,Gerry,Schiller
+,,,
+1/23/2015 17:25,225.94,Carl,Lavin
+,,,
+1/22/2015 20:04,85.98,Robert,Conway
+,,,
+1/22/2015 18:28,245.94,Elizabeth,Smith
+1/22/2015 8:46,0,Steph,Taylor
+1/22/2015 7:00,18.49,Paula,Kaiser
+1/22/2015 7:00,35.98,Cynthia,Bechel
+1/22/2015 7:00,110.96,Steph,Taylor
+1/20/2015 12:10,85.98,Teena,Conrad
+1/18/2015 7:42,45.99,Omar,Alley
+,,,
+1/16/2015 7:01,111.97,Gerry,Schiller
+,,,
+,,,
+,,,
+,,,
+,,,
+1/15/2015 16:12,62.23,mark,dragone
+,,,
+,,,
+1/14/2015 19:15,35.99,Holly,Lyon
+1/14/2015 10:56,173.96,Louisa,Hahn
+,,,
+,,,
+1/13/2015 15:53,45.99,Alyson,Taylor
+,,,
+1/13/2015 7:01,69.72,Faiez,Elahee
+,,,
+,,,
+1/12/2015 20:05,85.98,Mallory,Ford
+,,,
+1/12/2015 16:38,85.98,peter,rozday
+1/12/2015 8:01,85.98,Elizabeth,Herberg
+,,,
+1/10/2015 11:51,35.99,Dawn,Shreffler
+1/9/2015 20:49,45.99,Craig,Palmer
+1/8/2015 21:11,45.99,Jake,Sanders
+1/8/2015 9:30,65.98,Shawn,Craig
+,,,
+,,,
+1/7/2015 7:01,27.24,Gerry,Schiller
+1/6/2015 22:01,25.99,Travis,Van Slooten
+1/6/2015 18:41,95.98,Phil,Lombardo
+1/6/2015 16:41,45.99,Michelle,Rudis
+1/6/2015 12:27,65.98,lori,harwood
+1/6/2015 12:12,16,Susan,Andes
+1/5/2015 23:50,125.97,AnnMarie,Hagemann
+,,,
+1/5/2015 11:58,0,Jesse,Sparks
+1/5/2015 7:01,30.99,Jesse,Sparks
+1/5/2015 0:05,185.95,Adam,Curl
+1/4/2015 7:01,37.48,Donald,Santoso
+,,,
+1/3/2015 22:33,25.99,Nicole,Ellis
+1/3/2015 20:20,35.99,crystal,lake
+1/3/2015 12:25,95.98,Diane,McDermaid
+,,,
+,,,
+1/2/2015 7:47,25.2,Richard T,Howell Jr
+1/1/2015 13:27,0,Jayme,Boardman
+1/1/2015 7:01,30.99,Mark,Joyce
+1/1/2015 7:01,30.99,Kimberly,Cincotta
+1/1/2015 7:01,43.48,Vicki,Hensley
+,,,
+,,,
+1/1/2015 7:01,30.99,George,Wagner
+12/31/2014 14:22,141.97,Arnold,Adams
+,,,
+12/31/2014 7:00,30.99,Adam,Powers
+12/31/2014 5:25,63.59,Chris,Eldridge
+,,,
+,,,
+12/30/2014 7:01,69.72,Jayme,Boardman
+12/29/2014 12:27,69.72,Bill,Eastman
+12/26/2014 9:19,25.99,Doris,Hawkins
+12/25/2014 12:37,0,Kurt,Besch
+12/24/2014 15:13,69.72,Gerry,Schiller
+,,,
+,,,
+12/23/2014 15:13,45.99,Kevin,Pasco
+12/23/2014 9:32,245.94,Jeffrey,Yetikyel
+12/23/2014 9:04,35.99,Patricia,Schmidt
+12/22/2014 23:34,107.97,Yvonne,LaMar
+,,,
+,,,
+12/22/2014 9:42,97.97,Tinny,Suri
+,,,
+,,,
+12/22/2014 7:54,82.78,Raymond,Burtoff
+,,,
+12/22/2014 7:01,18.49,Paula,Kaiser
+12/22/2014 7:01,30.99,Jesse,Sparks
+12/21/2014 10:31,35.99,Fred,Jiji
+12/20/2014 11:05,25.99,karen,ford
+12/19/2014 16:42,95.98,kevin,fleury
+12/19/2014 9:00,35.99,Joan,Kassebaum
+12/19/2014 0:56,173.96,Eli,Ovadia
+12/17/2014 15:19,185.95,Jeremy,Lawson
+,,,
+,,,
+12/17/2014 7:08,25.99,Omar,Alley
+12/17/2014 7:01,30.99,Adam,Powers
+12/14/2014 12:45,87.97,John,Whitman
+12/14/2014 8:15,85.98,Denise P,Price
+,,,
+12/12/2014 13:54,125.97,Karen,Josephson
+12/12/2014 13:20,197.95,SHERI,CLAPKIN
+12/10/2014 23:18,45.99,Arnold,Adams
+12/9/2014 19:54,245.94,Elizabeth,Smith
+12/9/2014 17:03,65.98,Jeremy,Lawson
+12/8/2014 7:01,30.99,Jesse,Sparks
+12/7/2014 12:19,175.96,deirdre,fisher
+,,,
+,,,
+12/5/2014 16:07,125.97,Bassam,Elhassan
+,,,
+,,,
+12/4/2014 22:19,87.97,Johua,Sims
+12/4/2014 21:56,225.94,Johua,Sims
+12/4/2014 7:33,45.99,Patrecia,Arnold
+12/4/2014 7:01,37.48,Donald,Santoso
+,,,
+12/3/2014 7:01,30.99,Adam,Powers
+12/2/2014 22:54,0,Donald,Santoso
+,,,
+12/2/2014 22:52,0,Donald,Santoso
+,,,
+12/2/2014 7:01,30.99,Kurt,Besch
+12/1/2014 23:23,45.99,Roy,Johnson
+12/1/2014 21:11,45.99,lauralea,suess
+12/1/2014 20:33,25.99,Robin,Griffith
+12/1/2014 18:41,25.99,Joe,Lightfoot
+12/1/2014 13:25,65.98,David,Basta
+12/1/2014 10:03,45.99,Andre,Di Carlo
+,,,
+12/1/2014 9:35,45.99,Douglas,Kraut
+,,,
+12/1/2014 9:20,65.98,matt,thacker
+,,,
+,,,
+12/1/2014 7:01,30.99,Mark,Joyce
+12/1/2014 7:01,30.99,Kimberly,Cincotta
+12/1/2014 7:01,30.99,George,Wagner
+12/1/2014 5:45,45.99,Craig,Palmer
+12/1/2014 5:28,45.99,Esmeralda,Acosta
+,,,
+12/1/2014 5:25,85.98,Thomas,Corrigan
+,,,
+12/1/2014 1:44,45.99,Jibran,Qazi
+12/1/2014 0:52,65.98,Desiree,Benkmann
+11/30/2014 18:33,85.98,Jenna,Kim
